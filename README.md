@@ -11,8 +11,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - Consolidated lines of code in the CSS file.
 - In the process I familiarized myself with some of the many semnatic element tags and their uses, as well as how to troubleshoot issues when they arose as a result of editing the starter code.
 
-urban-octo-telegram\Develop\assets\images\Screenshot_20230225_082822.png
 C:\Users\icoll\bootcamp\challenge\code-refactor\urban-octo-telegram\Develop\assets\images\Screenshot_20230225_082822.png
+
 ## License
 MIT License
 
